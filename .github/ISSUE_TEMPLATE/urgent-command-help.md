@@ -2,7 +2,7 @@
 name: URGENT command help
 about: URGENT command help only!
 title: URGENT -
-labels: help wanted, URGENT, Command HELP
+labels: Command HELP, URGENT, help wanted
 assignees: ''
 
 ---
